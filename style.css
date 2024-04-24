@@ -1,0 +1,54 @@
+body {
+	background-color: #ACD7EC;
+}
+
+#curryhome {
+	background: #587291;
+	height: 350px;
+	background-repeat: no-repeat;
+	backgroun-size: cover;
+	width: 100%;
+}
+#duranthome{
+	background: #587291;
+	height: 440px;
+	background-repeat: no-repeat;
+	backgroun-size: cover;
+	width: 100%;
+}
+
+#mainhome {
+	background: url("thumbnail.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 420px;
+}
+
+p{
+color:white;
+	font-size:30px;
+	text-align:center;	
+}
+
+h4{
+	color:white;
+	font-size:40px;
+	text-align:center;
+}
+
+h1{
+	color: white;
+	font-size: 100px;
+}
+
+h2{
+	color: white;
+	font-size: 70px;
+	text-align: center;
+}
+
+h3{
+	color:white;
+	font-size:20px;
+	text-align: center;
+
