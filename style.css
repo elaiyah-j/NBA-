@@ -4,14 +4,14 @@ body {
 
 #curryhome {
 	background: #587291;
-	height: 350px;
+	height: 425px;
 	background-repeat: no-repeat;
 	backgroun-size: cover;
 	width: 100%;
 }
 #duranthome{
 	background: #587291;
-	height: 440px;
+	height: 415px;
 	background-repeat: no-repeat;
 	backgroun-size: cover;
 	width: 100%;
@@ -21,7 +21,14 @@ body {
 	background: url("thumbnail.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 420px;
+	height: 450px;
+}
+#dončićhome{
+	background: #587291;
+	height: 470px;
+	background-repeat: no-repeat;
+	backgroun-size: cover;
+	width: 100%;
 }
 
 p{
@@ -49,6 +56,46 @@ h2{
 
 h3{
 	color:white;
-	font-size:20px;
+	font-size:30px;
 	text-align: center;
+}
+
+	.homenav {
+   background-color: #95B1D5;
+   overflow: hidden;
+}
+
+.homenav a {
+   float: left;
+   color: #FFFFFF;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.homenav a:hover {
+   background-color: #0D316A;
+   color: white;
+}
+
+.homenav a.active {
+   background-color: #011638;
+   color: white;
+}
+
+
+
+img {
+   float: left;
+   margin-left: 50px; 
+   padding: 10px; 
+}
+
+img {
+   float: right;
+   margin-right: 50px;
+   padding: 10px; 
+}
+
 
